@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello 👋
 
+Meu nome é Nicolas Freitas, sou um entusiasta na área de Tecnologia
+Sou apaixonado por programação e games
+De forma intermediária sei mexer em HTML&CSS e JavaScript
+
+🔭 Atualmente estou estudando Desenvolvimento de Sistemas no Senai "Anchieta"
+🤔 Procuro emprego na área de programação tanto front quanto back
+📫 Forma de Contato: darktails076@gmail.com
+⚡ Algo legal sobre mim: Sei montar cubos mágicos 3x3 (36 segundos) e 5x5 (5 minutos)
 <!--
 **KuromiHitagi/KuromiHitagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
