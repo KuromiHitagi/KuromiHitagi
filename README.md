@@ -26,11 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45px" height="45px" alt="mysql"/>
 </div>
 
-## Controle de Versionamento que conheço:
+## Tecnologias que conheço:
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" height="45px" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px" height="45px" alt="github"/>
 </div>
+
+## Estatísticas
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KuromiHitagi&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KuromiHitagi&theme=tokyonight&locale=pt-br" />
+
 
 <!--
 **KuromiHitagi/KuromiHitagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
