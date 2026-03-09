@@ -7,13 +7,12 @@
 </p>
 
 <ul>
-  <li>🔭 Atualmente estou estudando Desenvolvimento de Sistemas no Senai "Anchieta"</li>
-  <li>🤔 Procuro emprego na área de programação tanto front quanto back</li>
+  <li>🔭 Atualmente estou no curso de Técnico em Desenvolvimento de Sistemas no Senai "Anchieta"</li>
+  <li>🤔 Procuro emprego na área de Dev</li>
   <li>📫 Forma de Contato: darktails076@gmail.com</li>
   <li>⚡ Algo legal sobre mim: Sei montar cubos mágicos 3x3 (36 segundos) e 5x5 (5 minutos)</li> 
 </ul>
 
-## Algumas das linguagens que conheço:
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" height="45px" alt="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" height="45px" alt="css"/>
@@ -24,12 +23,6 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px" height="45px" alt="java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45px" height="45px" alt="mysql"/>
-</div>
-
-## Tecnologias que conheço:
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" height="45px" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px" height="45px" alt="github"/>
 </div>
 
 ## Estatísticas
