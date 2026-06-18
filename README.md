@@ -46,5 +46,6 @@ Aqui estão algumas das ferramentas e linguagens que utilizo e estou estudando:
 Se você quiser trocar uma ideia sobre tecnologia, jogos ou cubos mágicos, sinta-se à vontade para entrar em contato!
 
 📩 **E-mail:** nicolasfreitassouza076@gmail.com
+💼 **LinkedIn:** [Nicolas Freitas Souza](https://www.linkedin.com/in/nicolas-freitas-souza-80aa28417/)
 
 </div>
