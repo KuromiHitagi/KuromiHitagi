@@ -1,46 +1,50 @@
-## Hello Everyone👋
+<div align="center">
 
-<p>
-  Meu nome é Nicolas Freitas, tenho 16 anos e sou um entusiasta na área de Tecnologia. <br> 
-  Sou apaixonado por programação e games. <br> 
-  De forma intermediária sei mexer em HTML&CSS e JavaScript.
+# Olá, eu sou o Nicolas Freitas 👋
+
+Meu nome é Nicolas Freitas, tenho 16 anos e sou um entusiasta apaixonado por tecnologia, programação e games. Atualmente, estou expandindo meus conhecimentos teóricos e práticos para ingressar no mercado como desenvolvedor.
+
+🚀 **Buscando oportunidades como Desenvolvedor Júnior / Estagiário**
+
+---
+
+### 💻 Sobre Mim
+
+* 🔭 **Formação:** Técnico em Desenvolvimento de Sistemas no SENAI "Anchieta"
+* 💡 **Conhecimentos:** Nível intermediário em HTML5, CSS3 e JavaScript
+* ⚡ **Fun Fact:** Consigo resolver o cubo mágico 3x3 em 36 segundos e o 5x5 em 5 minutos! 🧩
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das ferramentas e linguagens que utilizo e estou estudando:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
 </p>
 
-<ul>
-  <li>🔭 Atualmente estou no curso de Técnico em Desenvolvimento de Sistemas no Senai "Anchieta"</li>
-  <li>🤔 Procuro emprego na área de Dev</li>
-  <li>📫 Forma de Contato: darktails076@gmail.com</li>
-  <li>⚡ Algo legal sobre mim: Sei montar cubos mágicos 3x3 (36 segundos) e 5x5 (5 minutos)</li> 
-</ul>
+---
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" height="45px" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" height="45px" alt="css"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" height="45px" alt="javascript"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45px" height="45px" alt="react"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45px" height="45px" alt="sass"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px" height="45px" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45px" height="45px" alt="mysql"/>
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KuromiHitagi&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KuromiHitagi&theme=tokyonight&locale=pt-br&layout=compact" height="150" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Se você quiser trocar uma ideia sobre tecnologia, jogos ou cubos mágicos, sinta-se à vontade para entrar em contato!
+
+📩 **E-mail:** nicolasfreitassouza076@gmail.com
+
 </div>
-
-## Estatísticas
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KuromiHitagi&hide=contribs,prs&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KuromiHitagi&theme=tokyonight&locale=pt-br" />
-
-
-<!--
-**KuromiHitagi/KuromiHitagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
