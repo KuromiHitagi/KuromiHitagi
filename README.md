@@ -25,6 +25,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo e estou estudando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" width="45" height="45" alt="Node" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
@@ -46,6 +47,6 @@ Aqui estão algumas das ferramentas e linguagens que utilizo e estou estudando:
 Se você quiser trocar uma ideia sobre tecnologia, jogos ou cubos mágicos, sinta-se à vontade para entrar em contato!
 
 📩 **E-mail:** nicolasfreitassouza076@gmail.com
-💼 **LinkedIn:** [Nicolas Freitas Souza](https://www.linkedin.com/in/nicolas-freitas-souza-80aa28417/)
+💼 **LinkedIn:** [Nicolas Freitas Souza](https://www.linkedin.com/in/nicolasBRfreitas/)
 
 </div>
