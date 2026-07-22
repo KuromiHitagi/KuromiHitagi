@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Nicolas Freitas 👋
+# Olá, eu sou o Nicolas 👋
 
-Meu nome é Nicolas Freitas, tenho 16 anos e sou um entusiasta apaixonado por tecnologia, programação e games. Atualmente, estou expandindo meus conhecimentos teóricos e práticos para ingressar no mercado como desenvolvedor.
+Meu nome é Nicolas Freitas Souza, tenho 17 anos e sou um entusiasta apaixonado por tecnologia, programação e games. Atualmente, estou expandindo meus conhecimentos teóricos e práticos para ingressar no mercado como desenvolvedor.
 
 🚀 **Buscando oportunidades como Desenvolvedor Júnior / Estagiário**
 
@@ -11,7 +11,7 @@ Meu nome é Nicolas Freitas, tenho 16 anos e sou um entusiasta apaixonado por te
 ### 💻 Sobre Mim
 
 * 🔭 **Formação:** Técnico em Desenvolvimento de Sistemas no SENAI "Anchieta"
-* 💡 **Conhecimentos:** Nível intermediário em HTML5, CSS3 e JavaScript
+* 💡 **Conhecimentos:** Nível intermediário em HTML5, CSS3, JavaScript e React
 * ⚡ **Fun Fact:** Consigo resolver o cubo mágico 3x3 em 36 segundos e o 5x5 em 5 minutos! 🧩
 
 ---
